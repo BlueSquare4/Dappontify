@@ -1,0 +1,11 @@
+{
+    "vscode_vibrancy.type": "acrylic",
+    "vscode_vibrancy.theme": "Solarized Dark+",
+    "vscode_vibrancy.opacity": -1,
+    "editor.suggest.snippetsPreventQuickSuggestions": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "html-css-class-completion.enableEmmetSupport": true,
+    "emmet.extensionsPath": [
+        "C:\\Users\\ajayb\\AppData\\Local\\Programs\\Microsoft VS Code\\resources\\app\\extensions"
+    ]
+}
