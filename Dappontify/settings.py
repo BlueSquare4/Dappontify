@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'dappontify',
         'USER': 'vcpzxq9djwuyirzzn2f5',
-        'PASSWORD': 'pscale_pw_fssS3TQhnuZgZXj5u17jPEZRs909JRdmL42Q4FkU74E',
+        # 'PASSWORD': 'pscale_pw_fssS3TQhnuZgZXj5u17jPEZRs909JRdmL42Q4FkU74E',
         'HOST': 'aws.connect.psdb.cloud',  # Use 'localhost' for a local MySQL server
         'PORT': '3306',  # Default MySQL port is 3306
     }
