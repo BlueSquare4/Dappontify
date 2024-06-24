@@ -5,6 +5,10 @@ Sure, here's a sample README file for your Django-based online doctor appointmen
 
 Dappontify is an online doctor appointment website built with Django. It provides a platform for patients to book appointments with doctors easily and efficiently.
 
+
+![Screenshot 2024-06-24 131733](https://github.com/BlueSquare4/Dappontify/assets/104336525/8a8f59bd-ae0b-41f8-9382-40a6b22f67f8)
+
+
 ## Features
 
 - **User Registration and Authentication**: Patients and doctors can register and log in.
